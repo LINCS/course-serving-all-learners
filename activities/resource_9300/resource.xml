@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="270" moduleid="9300" modulename="resource" contextid="60075">
+  <resource id="270">
+    <name>Understanding and Defining DEI</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;The default view opens the unit in this browser window. &lt;em&gt;For optimal viewing, click the following link to open in a new window&lt;/em&gt;: &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/60075/mod_resource/content/15/content/index.html" target="_blank"&gt;Open Unit 1 in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>16</revision>
+    <timemodified>1665601104</timemodified>
+  </resource>
+</activity>

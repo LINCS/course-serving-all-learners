@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="275" moduleid="9311" modulename="resource" contextid="60086">
+  <resource id="275">
+    <name>Course Conclusion</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;The default view opens the unit in this browser window. &lt;em&gt;For optimal viewing, click the following link to open in a new window&lt;/em&gt;: &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/60086/mod_resource/content/23/content/index.html" target="_blank"&gt;Open the course conclusion in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>24</revision>
+    <timemodified>1665590235</timemodified>
+  </resource>
+</activity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="272" moduleid="9305" modulename="resource" contextid="60080">
+  <resource id="272">
+    <name>Awareness Building: Cultural Competence and Inclusion</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;The default view opens the unit in this browser window. &lt;em&gt;For optimal viewing, click the following link to open in a new window&lt;/em&gt;: &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/60080/mod_resource/content/18/content/index.html" target="_blank"&gt;Open Unit 3 in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>20</revision>
+    <timemodified>1665673548</timemodified>
+  </resource>
+</activity>
