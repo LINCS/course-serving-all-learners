@@ -1,5 +1,5 @@
-# Course: Diversity, Equity, and Inclusion (DEI): From Awareness to Action
-This course leads participants to think through and evaluate DEI at the program and classroom level. The course scaffolds information leading to the process of conducting a classroom or program equity audit. The course is designed to be completed in a group or by individuals.
+# Course: Serving All Learners: From Awareness to Action
+This course will help you understand and define what it means to be inclusive of all learners in the adult education classroom and program. The course will guide you in conducting an inclusivity audit. Classroom inclusivity audits can be conducted and followed through independently or in a group. After completing this course, you will be able to identify steps individuals can take to advance their commitment to serving all learners progressively from both an individual and a programmatic perspective and identify steps for conducting an inclusivity audit and work toward the sustainability of your efforts.
 
 ## Import Instructions
 The files for this course are provided in an uncompressed format. In order to import this course into your Moodle site please follow the instructions provided below:
